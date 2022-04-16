@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>syntax on lecta collecta</title>
-    <link>/categories/syntax/</link>
-    <description>Recent content in syntax on lecta collecta</description>
+    <title>excerpts on lecta collecta</title>
+    <link>/tags/excerpts/</link>
+    <description>Recent content in excerpts on lecta collecta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="/categories/syntax/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/excerpts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Excerpts from 2022 reading</title>
       <link>/posts/excerpts-from-2022-reading/</link>

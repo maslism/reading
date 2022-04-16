@@ -1,46 +1,79 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Hugo</title>
+    <title>Posts on lecta collecta</title>
     <link>/posts/</link>
-    <description>Recent content in Posts on Hugo</description>
+    <description>Recent content in Posts on lecta collecta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Markdown Syntax Guide</title>
-      <link>/posts/markdown-syntax-guide/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Excerpts from 2022 reading</title>
+      <link>/posts/excerpts-from-2022-reading/</link>
+      <pubDate>Sat, 16 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>/posts/markdown-syntax-guide/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+      <guid>/posts/excerpts-from-2022-reading/</guid>
+      <description>Take me to the first quote from: Shutdown by Adam Tooze, The Ascent of Money: A Financial History of the World by Niall Ferguson, The Wages of Destruction: The Making and Breaking of the Nazi Economy by Tooze, Adam
+January 🔗 at the IMF. It was not until after the U.S. election that Ramaphosa and — Adam Tooze, Shutdown (p. 306, loc. 4688-4689, read on 1 January 2022)
+ 🙚</description>
     </item>
     
     <item>
-      <title>Placeholder Text</title>
-      <link>/posts/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Excerpts from 2021 reading</title>
+      <link>/posts/excerpts-from-2021-reading/</link>
+      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>/posts/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+      <guid>/posts/excerpts-from-2021-reading/</guid>
+      <description>Take me to the first quote from: Jsme jako oni by Zajíček Filip;Ščeblykin Kirill, Mnichovský komplex by Jan Tesař, Bullshit Jobs by David Graeber, Moc bezmocných by Václav Havel, Ako skapal tatranský tiger by Rado Baťo, Empires of the Word: A Language History of the World by Nicholas Ostler, Geschichte der Niederlande by Friso Wielenga, Crashed by Adam Tooze, Shutdown by Adam Tooze
+January 🔗 Jakmile společnosti řeknete, že může být zlá, její část zlá opravdu bude.</description>
     </item>
     
     <item>
-      <title>Math Typesetting</title>
-      <link>/posts/math-typesetting/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Excerpts from 2020 reading</title>
+      <link>/posts/excerpts-from-2020-reading/</link>
+      <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>/posts/math-typesetting/</guid>
-      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
+      <guid>/posts/excerpts-from-2020-reading/</guid>
+      <description>Take me to the first quote from: Tristes Tropiques by Claude Levi-Strauss, The Book of Tea by Kakuzo Okakura, The Woodlanders by Thomas Hardy
+March 🔗 Nowadays, being an explorer is a trade, which consists not, as one might think, in discovering hitherto unknown facts after years of study, but in covering a great many miles and assembling lantern-slides or motion pictures, preferably in colour, so as to fill a hall with an audience for several days in succession.</description>
     </item>
     
     <item>
-      <title>Emoji Support</title>
-      <link>/posts/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Excerpts from 2019 reading</title>
+      <link>/posts/excerpts-from-2019-reading/</link>
+      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>/posts/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+      <guid>/posts/excerpts-from-2019-reading/</guid>
+      <description>Take me to the first quote from: Fortress Besieged by Qian Zhongshu, Nothing Is True and Everything Is Possible: The Surreal Heart of the New Russia by Peter Pomerantsev, Stoner by John Williams;John Mcgahern, Heart of a Dog by Mikhail Bulgakov, Conversations of Socrates by Classics) (Xenophon, Discourses, Fragments, Handbook by Robin Hard; Christopher Gill, The Rise and Fall of Athens: Nine Greek Lives by Classics) (Plutarch, The Rise of Rome by Penguin Classics) (Plutarch, The Satyricon by Petronius, On the Nature of the Gods by Marcus Tullius Cicero, Homo Deus: A Brief History of Tomorrow by Yuval Noah Harari, The Cabaret of Plants by Richard Mabey, The Wind in the Willows by Kenneth Grahame, Talking to My Daughter About the Economy by Yanis Varoufakis, Empire of Things by Frank Trentmann, Adults in the Room by Yanis Varoufakis, Natasha&amp;rsquo;s Dance by Orlando Figes</description>
+    </item>
+    
+    <item>
+      <title>Excerpts from 2018 reading</title>
+      <link>/posts/excerpts-from-2018-reading/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/excerpts-from-2018-reading/</guid>
+      <description>Take me to the first quote from: Ulysses by James Joyce, Iran: Empire of the Mind by Michael Axworthy, Sapiens: A Brief History of Humankind by Yuval Noah Harari, SPQR: A History of Ancient Rome by Mary Beard
+May 🔗 Already, in those two books, Joyce had made a central theme of a perennial problem – that those who know how to feel often have no capacity to express themselves, and, by the time they have acquired the expressive capacity, they have all but forgotten how to feel.</description>
+    </item>
+    
+    <item>
+      <title>Excerpts from 2016 reading</title>
+      <link>/posts/excerpts-from-2016-reading/</link>
+      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/excerpts-from-2016-reading/</guid>
+      <description>Take me to the first quote from: The Histories by Herodotus;Carolyn Dewald;Robin Waterfield, Landscapes of Communism: A History Through Buildings by Owen Hatherley, How to Write a Thesis by Umberto Eco;Caterina Mongiat Farina;Geoff Farina;Francesco Erspamer, Man and His Symbols by Carl Gustav Jung, Pěna dni/Červená tráva by Boris Vian, Age of Ambition by Evan Osnos, Mastering the Art of Soviet Cooking by Anya Von Bremzen, Meditations by Marcus Aurelius (Emperor of Rome); Gregory Hays, The Aeneid by Virgil, The Homeric Hymns by Rayor, Diane J.</description>
+    </item>
+    
+    <item>
+      <title>Excerpts from 2015 reading</title>
+      <link>/posts/excerpts-from-2015-reading/</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/excerpts-from-2015-reading/</guid>
+      <description>Take me to the first quote from: ﻿The Coming Insurrection by comité invisible, Black Earth: The Holocaust as History and Warning by Timothy Snyder, Hellenistic and Biblical Greek by McLean, B. H., The Histories by Herodotus;Carolyn Dewald;Robin Waterfield
+July 🔗 This swarming little crowd that waits impatiently to be hired while doing whatever it can to seem natural is the result of an attempt to rescue the order of work through an ethos of mobility.</description>
     </item>
     
   </channel>
